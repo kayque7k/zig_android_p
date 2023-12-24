@@ -1,6 +1,6 @@
 # Desafio Tecnico Android
 
-## Este teste tem como objetivo solucionar problemas no codigo do projetoque esta gerando bugs na aplicacao
+## Este teste tem como objetivo solucionar problemas no codigo do projeto que esta gerando bugs na aplicacao
 
 ### Problemas encontrados que necessitam de correcao
 > - O Contador de refresh´s nao esta sendo atualizando
